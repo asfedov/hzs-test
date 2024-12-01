@@ -1,4 +1,4 @@
 
 export const NewComp = () => {
-    return <div></div>
+    return <div>HAHAHAHAHAHHAHAHHA CONFLICT SASI</div>
 }
