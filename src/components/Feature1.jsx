@@ -1,4 +1,4 @@
 
 export const Feature1 = () => {
-    return <div>LOGNAJNJKLDKJASJI</div>
+    return <div> <p>LOGNAJNJKLDKJASJI aaaa</p></div>
 }
